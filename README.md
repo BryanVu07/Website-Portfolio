@@ -1,6 +1,6 @@
 # README - Website Portfolio Project
 
-Overview
+Overview:
 This project provides a streamlined code format designed for job seekers and students looking to create and showcase their personal portfolios online. The code enables seamless interlinking between different pages, making it simple to display diverse experiences and skills in a cohesive, professional manner. Unlike many tutorials available online that show how to create a single page, this project focuses on the functionality of connecting multiple pages, improving the user experience and saving time.
 
 Key Features:
@@ -19,7 +19,7 @@ Benefits for Job Seekers and Students:
   
 3. Professional Presentation: This portfolio setup allows job seekers to demonstrate not only their skills but also their attention to detail, making a strong first impression with a professional, cohesive site.
 
-How to Use"
+How to Use:
 1. Clone the Repository: Clone or download the code from this repository to get started with your portfolio.
    
 2. Customize Pages: Modify the provided HTML and CSS files to include your personal information, experiences, and links to projects or achievements.
@@ -28,7 +28,7 @@ How to Use"
 
 4. Deploy the Portfolio: Once customized, you can host the portfolio on any web hosting platform, or deploy it locally for use as part of job applications.
 
-Conclusion
+Conclusion:
 This portfolio framework is designed to save time and improve efficiency for job seekers and students by simplifying the process of building and maintaining a professional, multi-page portfolio. With seamless interlinking, scalability, and a customizable template, this project empowers users to focus on content and presentation, increasing productivity and making a lasting impression on potential employers.
 
 Feel free to reach out with any questions or feedback!
