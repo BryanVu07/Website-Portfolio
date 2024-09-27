@@ -32,3 +32,6 @@ Conclusion:
 This portfolio framework is designed to save time and improve efficiency for job seekers and students by simplifying the process of building and maintaining a professional, multi-page portfolio. With seamless interlinking, scalability, and a customizable template, this project empowers users to focus on content and presentation, increasing productivity and making a lasting impression on potential employers.
 
 Feel free to reach out with any questions or feedback!
+
+![image](https://github.com/user-attachments/assets/6c9c87ff-8299-4817-a2ce-5693f5c662b1)
+
